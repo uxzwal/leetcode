@@ -1,27 +1,21 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1 || numRows >= s.length()) return s;
+        if (numRows == 1) return s;
         
-        vector<string> rows(min(numRows, (int)s.length()));
-        int currentRow = 0;
-        bool goingDown = false;
-        
-        for (char c : s) {
-            rows[currentRow] += c;
-            
-            // Change direction at first or last row
-            if (currentRow == 0 || currentRow == numRows - 1) {
-                goingDown = !goingDown;
-            }
-            
-            currentRow += goingDown ? 1 : -1;
-        }
-        
-        // Concatenate all rows
         string result;
-        for (string row : rows) {
-            result += row;
+        int cycleLen = 2 * numRows - 2;
+        int n = s.length();
+        
+        for (int i = 0; i < numRows; i++) {
+            for (int j = 0; j + i < n; j += cycleLen) {
+                result += s[j + i];
+                
+                // Add middle characters (not first or last row)
+                if (i != 0 && i != numRows - 1 && j + cycleLen - i < n) {
+                    result += s[j + cycleLen - i];
+                }
+            }
         }
         
         return result;
