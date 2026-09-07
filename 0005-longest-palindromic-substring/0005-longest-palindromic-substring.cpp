@@ -1,40 +1,46 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int n = s.length();
-        if (n == 0) return "";
+        if (s.empty()) return "";
         
-        vector<vector<bool>> dp(n, vector<bool>(n, false));
-        int start = 0, maxLength = 1;
+        // Transform string to handle even length palindromes
+        string transformed = "#";
+        for (char c : s) {
+            transformed += c;
+            transformed += "#";
+        }
         
-        // All substrings of length 1 are palindromes
+        int n = transformed.length();
+        vector<int> p(n, 0);
+        int center = 0, right = 0;
+        int maxLen = 0, maxCenter = 0;
+        
         for (int i = 0; i < n; i++) {
-            dp[i][i] = true;
-        }
-        
-        // Check substrings of length 2
-        for (int i = 0; i < n - 1; i++) {
-            if (s[i] == s[i + 1]) {
-                dp[i][i + 1] = true;
-                start = i;
-                maxLength = 2;
+            if (i < right) {
+                int mirror = 2 * center - i;
+                p[i] = min(right - i, p[mirror]);
+            }
+            
+            // Expand around center i
+            while (i - p[i] - 1 >= 0 && i + p[i] + 1 < n &&
+                   transformed[i - p[i] - 1] == transformed[i + p[i] + 1]) {
+                p[i]++;
+            }
+            
+            // Update center and right boundary
+            if (i + p[i] > right) {
+                center = i;
+                right = i + p[i];
+            }
+            
+            // Update max palindrome
+            if (p[i] > maxLen) {
+                maxLen = p[i];
+                maxCenter = i;
             }
         }
         
-        // Check substrings of length 3 or more
-        for (int len = 3; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
-                if (s[i] == s[j] && dp[i + 1][j - 1]) {
-                    dp[i][j] = true;
-                    if (len > maxLength) {
-                        start = i;
-                        maxLength = len;
-                    }
-                }
-            }
-        }
-        
-        return s.substr(start, maxLength);
+        int start = (maxCenter - maxLen) / 2;
+        return s.substr(start, maxLen);
     }
 };
