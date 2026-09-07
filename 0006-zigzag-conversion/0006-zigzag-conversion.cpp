@@ -3,19 +3,24 @@ public:
     string convert(string s, int numRows) {
         if (numRows == 1) return s;
         
-        string result;
-        int cycleLen = 2 * numRows - 2;
-        int n = s.length();
+        vector<string> rows(numRows);
+        int i = 0;
         
-        for (int i = 0; i < numRows; i++) {
-            for (int j = 0; j + i < n; j += cycleLen) {
-                result += s[j + i];
-                
-                // Add middle characters (not first or last row)
-                if (i != 0 && i != numRows - 1 && j + cycleLen - i < n) {
-                    result += s[j + cycleLen - i];
-                }
+        while (i < s.length()) {
+            // Going down
+            for (int j = 0; j < numRows && i < s.length(); j++) {
+                rows[j] += s[i++];
             }
+            
+            // Going up diagonally
+            for (int j = numRows - 2; j > 0 && i < s.length(); j--) {
+                rows[j] += s[i++];
+            }
+        }
+        
+        string result;
+        for (string row : rows) {
+            result += row;
         }
         
         return result;
