@@ -4,33 +4,28 @@ public:
         int i = 0;
         int n = s.length();
         
-        // Step 1: Skip leading whitespace
-        while (i < n && s[i] == ' ') {
-            i++;
-        }
+        // Skip whitespace
+        while (i < n && s[i] == ' ') i++;
         
-        // Step 2: Check sign
+        // Check sign
         int sign = 1;
         if (i < n && (s[i] == '+' || s[i] == '-')) {
             sign = (s[i] == '-') ? -1 : 1;
             i++;
         }
         
-        // Step 3: Convert digits with overflow check
-        int result = 0;
+        // Convert digits
+        long long result = 0;
         while (i < n && isdigit(s[i])) {
-            int digit = s[i] - '0';
+            result = result * 10 + (s[i] - '0');
             
-            // Check overflow before multiplying by 10 and adding digit
-            if (result > INT_MAX / 10 || 
-                (result == INT_MAX / 10 && digit > 7)) {
-                return (sign == 1) ? INT_MAX : INT_MIN;
-            }
+            // Clamp to 32-bit range
+            if (sign == 1 && result > INT_MAX) return INT_MAX;
+            if (sign == -1 && -result < INT_MIN) return INT_MIN;
             
-            result = result * 10 + digit;
             i++;
         }
         
-        return sign * result;
+        return (int)(sign * result);
     }
 };
