@@ -1,26 +1,38 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int count = 0;
-    
     int averageOfSubtree(TreeNode* root) {
-        dfs(root);
+        int count = 0;
+        dfs(root, count);
         return count;
     }
     
 private:
-    pair<int, int> dfs(TreeNode* node) {
+    // Returns {sum, nodeCount} of subtree
+    pair<int, int> dfs(TreeNode* node, int& count) {
         if (!node) return {0, 0};
         
-        auto left = dfs(node->left);
-        auto right = dfs(node->right);
+        auto [leftSum, leftCount] = dfs(node->left, count);
+        auto [rightSum, rightCount] = dfs(node->right, count);
         
-        int sum = left.first + right.first + node->val;
-        int nodes = left.second + right.second + 1;
+        int totalSum = leftSum + rightSum + node->val;
+        int totalCount = leftCount + rightCount + 1;
         
-        if (node->val == sum / nodes) {
+        // Check if node value equals average (floor division)
+        if (node->val == totalSum / totalCount) {
             count++;
         }
         
-        return {sum, nodes};
+        return {totalSum, totalCount};
     }
 };
