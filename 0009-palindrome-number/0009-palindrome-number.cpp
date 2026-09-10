@@ -3,15 +3,14 @@ public:
     bool isPalindrome(int x) {
         if (x < 0) return false;
         
-        string s = to_string(x);
-        int left = 0, right = s.length() - 1;
+        int original = x;
+        long long reversed = 0;
         
-        while (left < right) {
-            if (s[left] != s[right]) return false;
-            left++;
-            right--;
+        while (x > 0) {
+            reversed = reversed * 10 + x % 10;
+            x /= 10;
         }
         
-        return true;
+        return original == reversed;
     }
 };
