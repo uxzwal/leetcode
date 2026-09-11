@@ -2,19 +2,15 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if (lists.empty()) return nullptr;
-        return mergeRange(lists, 0, lists.size() - 1);
+        
+        ListNode* result = nullptr;
+        for (ListNode* list : lists) {
+            result = mergeTwoLists(result, list);
+        }
+        return result;
     }
     
 private:
-    ListNode* mergeRange(vector<ListNode*>& lists, int left, int right) {
-        if (left == right) return lists[left];
-        
-        int mid = left + (right - left) / 2;
-        ListNode* l1 = mergeRange(lists, left, mid);
-        ListNode* l2 = mergeRange(lists, mid + 1, right);
-        return mergeTwoLists(l1, l2);
-    }
-    
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         ListNode dummy(0);
         ListNode* tail = &dummy;
