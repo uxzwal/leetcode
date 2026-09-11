@@ -2,38 +2,32 @@ class Solution {
 public:
     bool isMatch(string s, string p) {
         int m = s.length(), n = p.length();
-        // dp[i][j] = whether s[0..i-1] matches p[0..j-1]
-        vector<vector<bool>> dp(m + 1, vector<bool>(n + 1, false));
+        // memo[i][j]: -1 = unvisited, 0 = false, 1 = true
+        vector<vector<int>> memo(m + 1, vector<int>(n + 1, -1));
+        return dfs(s, p, 0, 0, memo);
+    }
+    
+private:
+    bool dfs(string& s, string& p, int i, int j, vector<vector<int>>& memo) {
+        if (memo[i][j] != -1) return memo[i][j] == 1;
         
-        // Empty string matches empty pattern
-        dp[0][0] = true;
-        
-        // Handle patterns like a*, a*b*, a*b*c* matching empty string
-        for (int j = 2; j <= n; j++) {
-            if (p[j-1] == '*') {
-                dp[0][j] = dp[0][j-2];
+        bool result;
+        if (j == p.length()) {
+            result = (i == s.length());
+        } else {
+            bool firstMatch = (i < s.length() && 
+                              (p[j] == '.' || p[j] == s[i]));
+            
+            if (j + 1 < p.length() && p[j+1] == '*') {
+                // '*' matches zero OR one+ of preceding element
+                result = dfs(s, p, i, j + 2, memo) || 
+                        (firstMatch && dfs(s, p, i + 1, j, memo));
+            } else {
+                result = firstMatch && dfs(s, p, i + 1, j + 1, memo);
             }
         }
         
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (p[j-1] == '*') {
-                    // Case 1: '*' matches zero of preceding element
-                    dp[i][j] = dp[i][j-2];
-                    
-                    // Case 2: '*' matches one or more of preceding element
-                    if (p[j-2] == '.' || p[j-2] == s[i-1]) {
-                        dp[i][j] = dp[i][j] || dp[i-1][j];
-                    }
-                } else {
-                    // Current pattern char matches current string char
-                    if (p[j-1] == '.' || p[j-1] == s[i-1]) {
-                        dp[i][j] = dp[i-1][j-1];
-                    }
-                }
-            }
-        }
-        
-        return dp[m][n];
+        memo[i][j] = result ? 1 : 0;
+        return result;
     }
 };
