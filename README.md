@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/uxzwal/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/uxzwal/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uxzwal/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/uxzwal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/uxzwal/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 ## Greedy
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/uxzwal/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/uxzwal/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/uxzwal/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/uxzwal/leetcode/tree/master/0014-longest-common-prefix) |
 | [2845-count-of-interesting-subarrays](https://github.com/uxzwal/leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/uxzwal/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/uxzwal/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
