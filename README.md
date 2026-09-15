@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uxzwal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/uxzwal/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/uxzwal/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/uxzwal/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [2845-count-of-interesting-subarrays](https://github.com/uxzwal/leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/uxzwal/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/uxzwal/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/uxzwal/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
