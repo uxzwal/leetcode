@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/uxzwal/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/uxzwal/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uxzwal/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/uxzwal/leetcode/tree/master/0029-divide-two-integers) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
 | [2843-count-symmetric-integers](https://github.com/uxzwal/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/uxzwal/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/uxzwal/leetcode/tree/master/0029-divide-two-integers) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
