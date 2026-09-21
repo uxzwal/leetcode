@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/uxzwal/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/uxzwal/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/uxzwal/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/uxzwal/leetcode/tree/master/0042-trapping-rain-water) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2845-count-of-interesting-subarrays](https://github.com/uxzwal/leetcode/tree/master/2845-count-of-interesting-subarrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/uxzwal/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/uxzwal/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/uxzwal/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/uxzwal/leetcode/tree/master/0042-trapping-rain-water) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uxzwal/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/uxzwal/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uxzwal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/uxzwal/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/uxzwal/leetcode/tree/master/0042-trapping-rain-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uxzwal/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Manacher
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/uxzwal/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/uxzwal/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/uxzwal/leetcode/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/uxzwal/leetcode/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/uxzwal/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
