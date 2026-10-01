@@ -7,10 +7,13 @@ public:
                 st.push(c);
             } else {
                 if (st.empty()) return false;
-                char top = st.top(); st.pop();
-                if (c == ')' && top != '(') return false;
-                if (c == '}' && top != '{') return false;
-                if (c == ']' && top != '[') return false;
+                char top = st.top();
+                st.pop();
+                if ((c == ')' && top != '(') ||
+                    (c == '}' && top != '{') ||
+                    (c == ']' && top != '[')) {
+                    return false;
+                }
             }
         }
         return st.empty();
