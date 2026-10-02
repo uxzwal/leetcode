@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/uxzwal/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uxzwal/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/uxzwal/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/uxzwal/leetcode/tree/master/0051-n-queens) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/uxzwal/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/uxzwal/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uxzwal/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/uxzwal/leetcode/tree/master/0051-n-queens) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/uxzwal/leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/uxzwal/leetcode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
