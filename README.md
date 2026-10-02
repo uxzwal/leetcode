@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/uxzwal/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/uxzwal/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/uxzwal/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/uxzwal/leetcode/tree/master/0049-group-anagrams) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/uxzwal/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/uxzwal/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uxzwal/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/uxzwal/leetcode/tree/master/0049-group-anagrams) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/uxzwal/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/uxzwal/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/uxzwal/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/uxzwal/leetcode/tree/master/0049-group-anagrams) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/uxzwal/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/uxzwal/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/uxzwal/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/uxzwal/leetcode/tree/master/0049-group-anagrams) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/uxzwal/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
