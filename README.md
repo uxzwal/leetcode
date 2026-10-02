@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/uxzwal/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/uxzwal/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/uxzwal/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/uxzwal/leetcode/tree/master/0055-jump-game) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uxzwal/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/uxzwal/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/uxzwal/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/uxzwal/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/uxzwal/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/uxzwal/leetcode/tree/master/0055-jump-game) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/uxzwal/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/uxzwal/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/uxzwal/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/uxzwal/leetcode/tree/master/0055-jump-game) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uxzwal/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
