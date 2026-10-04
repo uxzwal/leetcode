@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/uxzwal/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/uxzwal/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/uxzwal/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/uxzwal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/uxzwal/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/uxzwal/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/uxzwal/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/uxzwal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/uxzwal/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/uxzwal/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/uxzwal/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/uxzwal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
