@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/uxzwal/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/uxzwal/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/uxzwal/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/uxzwal/leetcode/tree/master/0068-text-justification) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/uxzwal/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/uxzwal/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/uxzwal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/uxzwal/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/uxzwal/leetcode/tree/master/0068-text-justification) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/uxzwal/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/uxzwal/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/uxzwal/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/uxzwal/leetcode/tree/master/0068-text-justification) |
 | [3498-reverse-degree-of-a-string](https://github.com/uxzwal/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Algorithm X
 |  |
