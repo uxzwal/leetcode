@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/uxzwal/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/uxzwal/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/uxzwal/leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/uxzwal/leetcode/tree/master/0087-scramble-string) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/uxzwal/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/uxzwal/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/uxzwal/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/uxzwal/leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/uxzwal/leetcode/tree/master/0087-scramble-string) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
