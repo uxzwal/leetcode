@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/uxzwal/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/uxzwal/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/uxzwal/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/uxzwal/leetcode/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uxzwal/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uxzwal/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/uxzwal/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/uxzwal/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/uxzwal/leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/uxzwal/leetcode/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/uxzwal/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/uxzwal/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/uxzwal/leetcode/tree/master/0067-add-binary) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/uxzwal/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/uxzwal/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/uxzwal/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/uxzwal/leetcode/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/uxzwal/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Algorithm X
 |  |
