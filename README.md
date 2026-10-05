@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/uxzwal/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/uxzwal/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/uxzwal/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/uxzwal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uxzwal/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uxzwal/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/uxzwal/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/uxzwal/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/uxzwal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/uxzwal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uxzwal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/uxzwal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/uxzwal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uxzwal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/uxzwal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/uxzwal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
@@ -481,4 +485,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/uxzwal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/uxzwal/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
