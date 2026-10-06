@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/uxzwal/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/uxzwal/leetcode/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/uxzwal/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/uxzwal/leetcode/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Linked List
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/uxzwal/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/uxzwal/leetcode/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/uxzwal/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/uxzwal/leetcode/tree/master/0101-symmetric-tree) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
