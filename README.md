@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/uxzwal/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/uxzwal/leetcode/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/uxzwal/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/uxzwal/leetcode/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/uxzwal/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/uxzwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uxzwal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/uxzwal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/uxzwal/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/uxzwal/leetcode/tree/master/0127-word-ladder) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/uxzwal/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uxzwal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/uxzwal/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/uxzwal/leetcode/tree/master/0127-word-ladder) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -543,4 +546,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/uxzwal/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/uxzwal/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
