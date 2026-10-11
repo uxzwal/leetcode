@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/uxzwal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/uxzwal/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/uxzwal/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/uxzwal/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/uxzwal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2845-count-of-interesting-subarrays](https://github.com/uxzwal/leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/uxzwal/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
