@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/uxzwal/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/uxzwal/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/uxzwal/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Depth-First Search
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/uxzwal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/uxzwal/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/uxzwal/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/uxzwal/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Linked List
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/uxzwal/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/uxzwal/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/uxzwal/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
