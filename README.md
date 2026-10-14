@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/uxzwal/leetcode/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/uxzwal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/uxzwal/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/uxzwal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/uxzwal/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/uxzwal/leetcode/tree/master/0140-word-break-ii) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/uxzwal/leetcode/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/uxzwal/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/uxzwal/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/uxzwal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/uxzwal/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/uxzwal/leetcode/tree/master/0140-word-break-ii) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/uxzwal/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/uxzwal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/uxzwal/leetcode/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/uxzwal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/uxzwal/leetcode/tree/master/0140-word-break-ii) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Stack
