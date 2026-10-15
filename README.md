@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/uxzwal/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/uxzwal/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/uxzwal/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/uxzwal/leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/uxzwal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/uxzwal/leetcode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/uxzwal/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uxzwal/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/uxzwal/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/uxzwal/leetcode/tree/master/0148-sort-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uxzwal/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Manacher
 |  |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/uxzwal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/uxzwal/leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/uxzwal/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/uxzwal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/uxzwal/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/uxzwal/leetcode/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/uxzwal/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
