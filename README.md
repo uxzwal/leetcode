@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/uxzwal/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/uxzwal/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uxzwal/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/uxzwal/leetcode/tree/master/0146-lru-cache) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/uxzwal/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uxzwal/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/uxzwal/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/uxzwal/leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -647,4 +649,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/uxzwal/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uxzwal/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/uxzwal/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/uxzwal/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
