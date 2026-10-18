@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/uxzwal/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/uxzwal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/uxzwal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/uxzwal/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uxzwal/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uxzwal/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/uxzwal/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/uxzwal/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/uxzwal/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/uxzwal/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/uxzwal/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/uxzwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/uxzwal/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uxzwal/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/uxzwal/leetcode/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/uxzwal/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
