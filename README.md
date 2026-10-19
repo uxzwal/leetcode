@@ -761,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/uxzwal/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/uxzwal/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
