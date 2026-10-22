@@ -1,11 +1,13 @@
 class Solution {
 public:
     int countCommas(int n) {
-        int ans = 0;
-        for (int i = 1000; i <= n; i++) {
-            if (i >= 1000000) ans += 2;
-            else ans += 1;
+        long long totalCommas = 0;
+        
+        // Every factor of 1000 adds an additional comma to the formatting
+        for (long long i = 1000; i <= n; i *= 1000) {
+            totalCommas += (n - i + 1);
         }
-        return ans;
+        
+        return totalCommas;
     }
 };
