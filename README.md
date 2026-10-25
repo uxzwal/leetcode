@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/uxzwal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/uxzwal/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/uxzwal/leetcode/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/uxzwal/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/uxzwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/uxzwal/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/uxzwal/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/uxzwal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/uxzwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/uxzwal/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/uxzwal/leetcode/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/uxzwal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/uxzwal/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/uxzwal/leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/uxzwal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/uxzwal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/uxzwal/leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
