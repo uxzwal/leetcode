@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uxzwal/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/uxzwal/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/uxzwal/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/uxzwal/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/uxzwal/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/uxzwal/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/uxzwal/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/uxzwal/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Trie
 |  |
 | ------- |
