@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/uxzwal/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/uxzwal/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/uxzwal/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/uxzwal/leetcode/tree/master/0190-reverse-bits) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/uxzwal/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/uxzwal/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/uxzwal/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/uxzwal/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/uxzwal/leetcode/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/uxzwal/leetcode/tree/master/0218-the-skyline-problem) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
