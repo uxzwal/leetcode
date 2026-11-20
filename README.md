@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/uxzwal/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/uxzwal/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/uxzwal/leetcode/tree/master/0169-majority-element) |
+| [0460-lfu-cache](https://github.com/uxzwal/leetcode/tree/master/0460-lfu-cache) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/uxzwal/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/uxzwal/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uxzwal/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/uxzwal/leetcode/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -787,10 +789,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/uxzwal/leetcode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/uxzwal/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0460-lfu-cache](https://github.com/uxzwal/leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/uxzwal/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/uxzwal/leetcode/tree/master/0460-lfu-cache) |
 ## Binary Indexed Tree
 |  |
 | ------- |
