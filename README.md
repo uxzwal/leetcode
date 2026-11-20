@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/uxzwal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/uxzwal/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/uxzwal/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/uxzwal/leetcode/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uxzwal/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uxzwal/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/uxzwal/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/uxzwal/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/uxzwal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/uxzwal/leetcode/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/uxzwal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/uxzwal/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/uxzwal/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/uxzwal/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uxzwal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/uxzwal/leetcode/tree/master/0189-rotate-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uxzwal/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Manacher
 |  |
