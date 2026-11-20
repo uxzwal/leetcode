@@ -2,12 +2,12 @@ class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
-        if (n == 0 || k == 0) return 0;
+        if (n <= 1 || k == 0) return 0;
 
-        // If k is large enough, it's equivalent to making infinite transactions
+        // If k >= n / 2, we can make as many transactions as we want
         if (k >= n / 2) {
             int max_profit = 0;
-            for (int i = 1; i < n; i++) {
+            for (int i = 1; i < n; ++i) {
                 if (prices[i] > prices[i - 1]) {
                     max_profit += prices[i] - prices[i - 1];
                 }
@@ -15,14 +15,13 @@ public:
             return max_profit;
         }
 
-        // DP state arrays to track the max profit at each transaction level
-        vector<int> buy(k + 1, INT_MIN);
+        vector<int> buy(k + 1, -1e9);
         vector<int> sell(k + 1, 0);
 
         for (int price : prices) {
-            for (int j = 1; j <= k; j++) {
-                buy[j] = max(buy[j], sell[j - 1] - price);
-                sell[j] = max(sell[j], buy[j] + price);
+            for (int t = 1; t <= k; ++t) {
+                buy[t] = max(buy[t], sell[t - 1] - price);
+                sell[t] = max(sell[t], buy[t] + price);
             }
         }
 
