@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/uxzwal/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/uxzwal/leetcode/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uxzwal/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uxzwal/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/uxzwal/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/uxzwal/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/uxzwal/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0460-lfu-cache](https://github.com/uxzwal/leetcode/tree/master/0460-lfu-cache) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/uxzwal/leetcode/tree/master/0164-maximum-gap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
