@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/uxzwal/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/uxzwal/leetcode/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/uxzwal/leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/uxzwal/leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/uxzwal/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/uxzwal/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/uxzwal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/uxzwal/leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/uxzwal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/uxzwal/leetcode/tree/master/0233-number-of-digit-one) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/uxzwal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/uxzwal/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/uxzwal/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/uxzwal/leetcode/tree/master/0143-reorder-list) |
+| [0233-number-of-digit-one](https://github.com/uxzwal/leetcode/tree/master/0233-number-of-digit-one) |
 | [3483-unique-3-digit-even-numbers](https://github.com/uxzwal/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
