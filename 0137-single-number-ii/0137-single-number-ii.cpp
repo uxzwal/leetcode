@@ -2,9 +2,9 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int ones = 0, twos = 0;
-        for (int x : nums) {
-            ones = (ones ^ x) & ~twos;
-            twos = (twos ^ x) & ~ones;
+        for (int num : nums) {
+            ones = (ones ^ num) & ~twos;
+            twos = (twos ^ num) & ~ones;
         }
         return ones;
     }
