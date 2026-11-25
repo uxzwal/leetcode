@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/uxzwal/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/uxzwal/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/uxzwal/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/uxzwal/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/uxzwal/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/uxzwal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/uxzwal/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/uxzwal/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/uxzwal/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/uxzwal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/uxzwal/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/uxzwal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/uxzwal/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -888,4 +891,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/uxzwal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/uxzwal/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
