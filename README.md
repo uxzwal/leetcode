@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/uxzwal/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/uxzwal/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/uxzwal/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/uxzwal/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/uxzwal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/uxzwal/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0812-largest-triangle-area](https://github.com/uxzwal/leetcode/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/uxzwal/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/uxzwal/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/uxzwal/leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/uxzwal/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uxzwal/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -916,4 +919,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/uxzwal/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/uxzwal/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
