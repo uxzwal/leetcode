@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/uxzwal/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2843-count-symmetric-integers](https://github.com/uxzwal/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/uxzwal/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [3360-stone-removal-game](https://github.com/uxzwal/leetcode/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/uxzwal/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/uxzwal/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/uxzwal/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/uxzwal/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/uxzwal/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/uxzwal/leetcode/tree/master/0068-text-justification) |
+| [3360-stone-removal-game](https://github.com/uxzwal/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/uxzwal/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Algorithm X
 |  |
