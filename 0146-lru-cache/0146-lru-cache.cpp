@@ -1,31 +1,42 @@
+#include <list>
+#include <unordered_map>
+
+using namespace std;
+
 class LRUCache {
+private:
     int cap;
-    list<pair<int, int>> lru;
+    list<pair<int, int>> dll;
     unordered_map<int, list<pair<int, int>>::iterator> mp;
 
 public:
     LRUCache(int capacity) {
         cap = capacity;
     }
-
+    
     int get(int key) {
-        if (!mp.count(key)) return -1;
-        lru.splice(lru.begin(), lru, mp[key]);
-        return mp[key]->second;
+        auto it = mp.find(key);
+        if (it == mp.end()) return -1;
+        
+        dll.splice(dll.begin(), dll, it->second);
+        return it->second->second;
     }
-
+    
     void put(int key, int value) {
-        if (mp.count(key)) {
-            mp[key]->second = value;
-            lru.splice(lru.begin(), lru, mp[key]);
+        auto it = mp.find(key);
+        if (it != mp.end()) {
+            it->second->second = value;
+            dll.splice(dll.begin(), dll, it->second);
             return;
         }
-        if (lru.size() == cap) {
-            int lru_key = lru.back().first;
-            lru.pop_back();
+        
+        if (dll.size() == cap) {
+            int lru_key = dll.back().first;
+            dll.pop_back();
             mp.erase(lru_key);
         }
-        lru.emplace_front(key, value);
-        mp[key] = lru.begin();
+        
+        dll.emplace_front(key, value);
+        mp[key] = dll.begin();
     }
 };
