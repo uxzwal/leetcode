@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/uxzwal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/uxzwal/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/uxzwal/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/uxzwal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0812-largest-triangle-area](https://github.com/uxzwal/leetcode/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/uxzwal/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/uxzwal/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/uxzwal/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0460-lfu-cache](https://github.com/uxzwal/leetcode/tree/master/0460-lfu-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/uxzwal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/uxzwal/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/uxzwal/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/uxzwal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uxzwal/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/uxzwal/leetcode/tree/master/2485-find-the-pivot-integer) |
