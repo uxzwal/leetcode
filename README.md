@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/uxzwal/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/uxzwal/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/uxzwal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2845-count-of-interesting-subarrays](https://github.com/uxzwal/leetcode/tree/master/2845-count-of-interesting-subarrays) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/uxzwal/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/uxzwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/uxzwal/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/uxzwal/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uxzwal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/uxzwal/leetcode/tree/master/0085-maximal-rectangle) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/uxzwal/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Segment Tree
 |  |
 | ------- |
