@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/uxzwal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/uxzwal/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/uxzwal/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/uxzwal/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/uxzwal/leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/uxzwal/leetcode/tree/master/0218-the-skyline-problem) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/uxzwal/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uxzwal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uxzwal/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/uxzwal/leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uxzwal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/uxzwal/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/uxzwal/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/uxzwal/leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/uxzwal/leetcode/tree/master/0200-number-of-islands) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/uxzwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/uxzwal/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/uxzwal/leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/uxzwal/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/uxzwal/leetcode/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/uxzwal/leetcode/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/uxzwal/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -822,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/uxzwal/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/uxzwal/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/uxzwal/leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
