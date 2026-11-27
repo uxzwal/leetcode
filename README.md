@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/uxzwal/leetcode/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/uxzwal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/uxzwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/uxzwal/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uxzwal/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/uxzwal/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/uxzwal/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/uxzwal/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/uxzwal/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1386-cinema-seat-allocation](https://github.com/uxzwal/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/uxzwal/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/uxzwal/leetcode/tree/master/0460-lfu-cache) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/uxzwal/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/uxzwal/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1386-cinema-seat-allocation](https://github.com/uxzwal/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uxzwal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uxzwal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uxzwal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/uxzwal/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/uxzwal/leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/uxzwal/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/uxzwal/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/uxzwal/leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/uxzwal/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/uxzwal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
